@@ -47,6 +47,6 @@ module.exports = {
         })
     ],
     resolve: {
-        extensions: ['.js', '.jsx', 'ts', 'tsx'], //后缀名自动补全
+        extensions: ['.js', '.jsx', '.ts', '.tsx'], //后缀名自动补全
     }
 };

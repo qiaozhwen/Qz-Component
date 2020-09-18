@@ -1,3 +1,4 @@
 .qz-button{
-    background: rgb(129,216,208);
+    background: rgb(129,216,208) !important;
+    color: #fff !important;
 }

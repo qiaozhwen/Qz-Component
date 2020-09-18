@@ -1,9 +1,11 @@
 import React, {FC} from 'react';
-import {Button} from "../../src/index";
+import {QZButton} from "../../src/index";
 
 const Button: FC<any> = () => {
     return (
-        <Button/>
+        <>
+            <QZButton name={'测试'}/>
+        </>
     )
 };
 export default Button

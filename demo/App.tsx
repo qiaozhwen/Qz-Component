@@ -1,3 +1,5 @@
-import React ,{ReactDoM} from 'react';
+import React from 'react';
+import ReactDom from 'react-dom'
 import App from './Home'
-ReactDoM.render((<App/>), document.getElementById('qz'));
+
+ReactDom.render((<App/>), document.getElementById('qz'));
